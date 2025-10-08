@@ -28,7 +28,7 @@ export default function Header() {
             <div className="bg-blue-600 p-2 rounded-lg">
 
             </div>
-           <img src="/src/logo verticle.png" alt="E-commerce Solution" className="w-200 h-12" />
+           <img src="/logo-verticle.png" alt="E-commerce Solution" className="w-200 h-12" />
             </div>
           
           <nav className="hidden md:flex items-center space-x-8">
