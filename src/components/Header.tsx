@@ -26,10 +26,10 @@ export default function Header() {
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center space-x-2">
             <div className="bg-blue-600 p-2 rounded-lg">
-              <ShoppingCart className="w-6 h-6 text-white" />
+
             </div>
-            <span className="text-xl font-bold text-gray-900">E-commerce Solution</span>
-          </div>
+           <img src="src\logo verticle.png" alt="E-commerce Solution" className="w-200 h-12" />
+            </div>
           
           <nav className="hidden md:flex items-center space-x-8">
             <a href="#services" className="text-gray-600 hover:text-blue-600 font-medium transition-colors">Services</a>
